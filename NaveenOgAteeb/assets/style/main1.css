@@ -105,7 +105,6 @@ body {
   background: rgb(248, 245, 245);
 }
 .main-solution {
-    flex: 30%;
     background-color: #f1f1f1;
     padding: 20px;
   }
