@@ -27,6 +27,10 @@
         top: 40px;
         right: 35px;
     }
+    .main img{
+        height: 100px;
+        
+    }
   }
   @media screen and (max-width: 1250px){
     .header-right a{
