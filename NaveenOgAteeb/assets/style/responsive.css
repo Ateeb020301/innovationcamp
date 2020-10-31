@@ -44,12 +44,9 @@
         
     }
   }
-  @media screen and (max-width: 5){
-    .header-right a{
-        text-align: center;
-    }
-    .intro{
-        text-align: center;
-        
-    }
+  @media screen and (max-width: 370px){
+   .header img{
+       top: 20px;
+       right: 15px;
+   }
   }
