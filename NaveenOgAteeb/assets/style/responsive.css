@@ -50,4 +50,7 @@
        top: 20px;
        right: 0px;
    }
+   #pic{
+       display: none;
+   }
   }
