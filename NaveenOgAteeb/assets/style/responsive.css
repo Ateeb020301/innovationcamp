@@ -45,9 +45,9 @@
         
     }
   }
-  @media screen and (max-width: 370px){
+  @media screen and (max-width: 400px){
    .header img{
        top: 20px;
-       right: 5px;
+       right: 0px;
    }
   }
