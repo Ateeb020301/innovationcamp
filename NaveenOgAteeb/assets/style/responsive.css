@@ -33,6 +33,7 @@
     }
     .main-solution img{
         width: auto;
+        height: 100px;
     }
   }
   @media screen and (max-width: 1250px){
