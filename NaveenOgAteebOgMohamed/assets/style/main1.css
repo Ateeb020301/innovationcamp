@@ -103,7 +103,6 @@ body {
 }
 
 .footer {
-  padding: 20px;
   text-align: center;
   background: darkslategray;
 }
@@ -120,4 +119,26 @@ body {
   }
   .main-solution h3{
       color: darkslategrey;
+  }
+
+  .foot-info{
+
+    margin: 5%;
+    overflow: auto;
+    color: #f1f1f1;
+  }
+  .foot-info div{
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin: 20px;
+  }
+  .foot-info a{
+    color: darkred;
+  }
+  .foot-bot{
+    text-align: center;
+    padding: 5px;
+    font-size: 12px;
+    background-color: rgb(61, 102, 102);
   }
