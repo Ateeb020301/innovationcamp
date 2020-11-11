@@ -31,10 +31,6 @@
         height: 100px;
         width: auto;
     }
-    .main-solution img{
-        width: auto;
-        height: auto;
-    }
   }
   @media screen and (max-width: 1250px){
     .header-right a{
@@ -46,11 +42,9 @@
     }
   }
   @media screen and (max-width: 400px){
-   .header img{
-       top: 20px;
-       right: 0px;
+    .header img{
+        top: 20px;
+        right: 0px;
+    }
+    
    }
-   #pic{
-       display: none;
-   }
-  }
